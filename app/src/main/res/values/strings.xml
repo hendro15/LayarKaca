@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">LayarKaca21</string>
+    
+    <!-- Navigation Drawer menu labs-->
+    <string name="nav_home">Home</string>
+    <string name="nav_cat">Categories</string>
+    <string name="nav_playlist">My Playlist</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_rate">Rate</string>
+    
+    <string-array name="nav_item_activity_title">
+        <item>Home</item>
+        <item>Categories</item>
+        <item>My Playlist</item>
+        <item>Share</item>
+        <item>Rate</item>
+    </string-array>
 </resources>
