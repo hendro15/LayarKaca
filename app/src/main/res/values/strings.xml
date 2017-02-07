@@ -15,4 +15,9 @@
         <item>Share</item>
         <item>Rate</item>
     </string-array>
+
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="action_logout">Log out</string>
+
 </resources>
