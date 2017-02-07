@@ -1,8 +1,10 @@
-package com.hendro.sonic_mob.layarkaca21;
+package com.hendro.sonic_mob.layarkaca21.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.hendro.sonic_mob.layarkaca21.R;
 
 public class MainActivity extends Activity {
 
