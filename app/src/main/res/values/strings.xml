@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">LayarKaca21</string>
 
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">closer_drawer</string>
+
     <!-- Navigation Drawer menu labs-->
     <string name="nav_home">Home</string>
     <string name="nav_photos">Photos</string>
